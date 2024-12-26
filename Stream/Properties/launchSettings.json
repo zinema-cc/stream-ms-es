@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Stream (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Stream (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
